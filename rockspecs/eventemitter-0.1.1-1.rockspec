@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
+package = "EventEmitter"
+version = "0.1.1-1"
 
-package = "eventemitter"
-version = "0.1.0-1"
-
--- LuaDist source
 source = {
-  tag = "0.1.0-1",
-  url = "git://github.com/LuaDist-testing/eventemitter.git"
+  url = "https://github.com/moteus/lua-EventEmitter/archive/v0.1.1.zip",
+  dir = "lua-EventEmitter-0.1.1",
 }
--- Original source
--- source = {
---   url = "https://github.com/moteus/lua-EventEmitter/archive/v0.1.0.zip",
---   dir = "lua-EventEmitter-0.1.0",
--- }
 
 description = {
   summary    = "Implementation of EventEmitter for Lua.",
